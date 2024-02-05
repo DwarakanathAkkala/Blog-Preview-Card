@@ -34,7 +34,7 @@ Users should be able to:
 
 ## Desktop Preview
 
-![Desktop Preview](./assets/previews/deskptop-preview.png)
+![Desktop Preview](./assets/previews/desktop-preview.png)
 
 ## Active State
 
